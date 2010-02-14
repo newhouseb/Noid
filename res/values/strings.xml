@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Notify.io for Android</string>
+    <string name="app_name">Noid Configuration</string>
+<string name="configure">Configure on Notify.io</string>
+<string name="enablenotifications">Enable Notifications</string>
+<string name="enablesound">Enable Sound Ping</string>
+<string name="enablevibration">Enable Vibration</string>
+<string name="notconfigured">Not configured! Click below to configure.</string>
+</resources>
